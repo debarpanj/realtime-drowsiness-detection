@@ -1,0 +1,3 @@
+kaggle datasets download -d mak1999/uta-rldd-2 //uta-rldd dataset consisting of images seperated in 5 folds
+kaggle datasets download -d mak1999/uta-rldd //uta-rldd dataset consisting of images only train folder
+kaggle datasets download -d mak1999/yolov5-drowsy //yolo folder and data consisting of subset of manually labelled uta-rldd dataset
